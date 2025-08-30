@@ -1,8 +1,6 @@
 # cloudflare-clean
 使用 GitHub Actions 批量删除 Cloudflare Pages 的所有旧的部署记录。
 
-> 基于 [delete-all-deployments](https://pub-505c82ba1c844ba788b97b1ed9415e75.r2.dev/delete-all-deployments.zip) 项目修改
-
 ## 介绍
 众所周知，在 Cloudflare Pages 上当您删除一个项目时，如果这个项目的部署记录超过了约 100 个，那么您很有可能会无法删除该项目。
 
