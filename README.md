@@ -1,4 +1,4 @@
-# cf-pages-cleanup
+# cloudflare-clean
 使用 GitHub Actions 批量删除 Cloudflare Pages 的所有旧的部署记录。
 
 > 基于 [delete-all-deployments](https://pub-505c82ba1c844ba788b97b1ed9415e75.r2.dev/delete-all-deployments.zip) 项目修改
